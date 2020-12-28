@@ -11,5 +11,5 @@ items.map(item => {
     }
 })
 .forEach(entry => {
-    console.log('Категория: ', entry.title, '\r\n Количество элементов: ', entry.title, entry.count)
+    console.log('Категория: ', entry.title, '\r\n Количество элементов: ', entry.count)
 })
